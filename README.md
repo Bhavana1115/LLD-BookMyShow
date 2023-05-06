@@ -7,7 +7,7 @@ Requirement Analysis:
 *Filter out on basis of genre & language if the selection is movie
 *Terms & conditions While booking tickets
 *Booking the tickets
-*Making payment.
+*Making payment
 *Cancel Booking
 
 2. Admin:
